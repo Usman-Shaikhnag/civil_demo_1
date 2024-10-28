@@ -41,7 +41,7 @@
                     </group>
                    
                      <group attrs="{'invisible': [('paver_visible', '=', False)]}">
-                        <label for="mean_of_lenght1" string="Mean of failure Length in mm (l)" />
+                        <label for="mean_of_lenght1" string="Mean of failure Length in mm (l)"/>
                         <div class="address_format " >
                           <group colspan="18"  class="oe_inline">
                             <label for="mean_of_lenght1" string="Sample 1" />

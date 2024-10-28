@@ -225,6 +225,8 @@
     'reports/threaded_steel/threaded_steel_datasheet.xml',
     'reports/bricks_burnt_clay/bricks_burnt_clay_report.xml',
     'reports/bricks_burnt_clay/bricks_burnt_clay_datasheet.xml',
+    'views/mechanical/measurement_uncertainty.xml',
+    'views/mechanical/concrete_mix_design.xml',
 
 
     # 'views/portal_template.xml'

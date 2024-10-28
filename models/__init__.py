@@ -140,4 +140,6 @@ from .report import act_compressive_strength_ds_report
 from .mechanical import drying_shrinkage
 from .report import drying_shrinkage_ds_report
 from .report import concrete_cube_water_ds_report
+from .mechanical import measurement_uncertainty
+from .mechanical import concrete_mix_design
 # from .import dash_bord
